@@ -2,6 +2,7 @@ package chapter3;
 
 import java.util.Scanner;
 
+// task 2
 public class ChangeForADollarGame {
 
     public static void main(String[] args) {
